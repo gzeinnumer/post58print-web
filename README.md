@@ -1,4 +1,8 @@
 # post58print-web
+
+[Source](https://medium.com/@adenovid/cara-print-ke-printer-pos-langsung-dari-browser-d53f8e5e104e)
+&
+[Live Demo](https://jsfiddle.net/adenvt/az2ypnmz/)
  
 ```php
 <html>
